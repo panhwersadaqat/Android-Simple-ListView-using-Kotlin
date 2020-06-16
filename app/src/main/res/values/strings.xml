@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">List view using Kotlin</string>
+
+    <string-array name="sample_array">
+        <item>sample 1</item>
+        <item>sample 2</item>
+        <item>sample 3</item>
+        <item>sample 4</item>
+        <item>sample 5</item>
+        <item>sample 6</item>
+        <item>sample 7</item>
+        <item>sample 8</item>
+        <item>sample 9</item>
+    </string-array>
+</resources>
